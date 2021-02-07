@@ -81,7 +81,10 @@ while True:
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         # TO-DO: Modificación de Est-1 en el Lab 2
+<<<<<<< HEAD
         print('Primer libro cargado: ' + str(lt.firstElement(books)))
+=======
+>>>>>>> 28ba8275d6d217091c5851f130ce55c4abe9af69
         # TO-DO: Modificación de Est-2 en el Lab 2
 
     elif int(inputs[0]) == 2:

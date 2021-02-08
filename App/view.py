@@ -81,7 +81,7 @@ while True:
         print('Total de libros cargados: ' + str(lt.size(books)))
 
         # TO-DO: Modificación de Est-1 en el Lab 2
-        print('Ultimo libro cargado: ' + str(lt.lastElement(books)))
+        print('Primer libro cargado: ' + str(lt.firstElement(books)))
 
         # TO-DO: Modificación de Est-2 en el Lab 2
         print('Ultimo libro cargado: ' + str(lt.lastElement(books)))

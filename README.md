@@ -27,6 +27,6 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
-Estudiante 1: Daniel Osorio
+Estudiante 1: Daniel Osorio, 202022996, d.osorioc2@uniandes.edu.co
 
-Estudiante 2: Tomas Angel
+Estudiante 2: Tomas Angel, 202020366, t.angel@uniandes.edu.co
